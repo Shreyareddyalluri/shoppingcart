@@ -1,0 +1,77 @@
+const list = [
+  {
+    id: 1,
+    title: "Apple iPhone 14 Pro",
+    author: "256GB-Deep Purple",
+    price: 129900,
+    img: "https://m.media-amazon.com/images/I/61HHS0HrjpL._AC_UY327_FMwebp_QL65_.jpg",
+    amount: 1,
+  },
+  {
+    id: 2,
+    title: "Apple iPhone 13 Mini",
+    author: "512GB-Green",
+    price: 89999,
+    img: "https://m.media-amazon.com/images/I/61cMQeVEGKL._AC_UY327_FMwebp_QL65_.jpg",
+    amount: 1,
+  },
+  {
+    id: 3,
+    title: "Apple AirPods",
+    author: "3rd Gereration",
+    price: 19600,
+    img: "https://m.media-amazon.com/images/I/615ekapl+pL._AC_UY327_FMwebp_QL65_.jpg",
+    amount: 1,
+  },
+  {
+    id: 4,
+    title: "Apple AirTag",
+    author: "Version 4",
+    price: 3490,
+    img: "https://m.media-amazon.com/images/I/21eusmdmBJL._SX300_SY300_QL70_FMwebp_.jpg",
+    amount: 1,
+  },
+  {
+    id: 5,
+    title: "Apple Watch SE (Smart Watch)",
+    author: "2nd Generation",
+    price: 26900,
+    img: "https://m.media-amazon.com/images/I/71LfnkRgZ4L._AC_UY327_FMwebp_QL65_.jpg",
+    amount: 1,
+  },
+  {
+    id: 6,
+    title: "Ipad",
+    author: "9th Gen Space-Grey",
+    price: 31900,
+    img: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSUHXw-VuMqZNwGjkMIkU7g5sX8MjWrkDbCTnn5imQHgrr0WjSaLrTcPPA9VAsGjO-gXDOnttuhywS5Z-8omP4jTUe-3S4OHhgh8AAHJjDiIHkjhXuSTlNM&usqp=CAc",
+    amount: 1,
+  },
+  {
+    id: 7,
+    title: "Apple EarPods ",
+    author: "Lightening Connector",
+    price: 1699,
+    img: "https://m.media-amazon.com/images/I/418AP8pw3KL._AC_UY327_FMwebp_QL65_.jpg",
+    amount: 1,
+  },
+  {
+    id: 8,
+    title: "Apple MagSafe Charger",
+    author: "Wireless Charging Case",
+    price: 3999,
+    img: "https://m.media-amazon.com/images/I/91Rh8F1g3kL._AC_UY327_FMwebp_QL65_.jpg",
+    amount: 1,
+  },
+  {
+    id: 9,
+    title: "Apple Pro Display XDR ",
+    author: "",
+
+    price: 500000,
+    img: "https://m.media-amazon.com/images/I/71pEQi2sX3L._AC_UY327_FMwebp_QL65_.jpg",
+    amount: 1,
+  },
+];
+
+export default list;
